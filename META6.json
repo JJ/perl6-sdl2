@@ -16,5 +16,5 @@
     "SDL2::Renderer" : "lib/SDL2/Renderer.pm6"
   },
   "resources"     : [ ],
-  "source-url"    : "git://github.com/azawawi/perl6-sdl2.git"
+  "source-url"    : "git://github.com/JJ/perl6-sdl2.git"
 }
