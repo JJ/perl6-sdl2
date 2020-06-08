@@ -8,7 +8,7 @@
     "Test",
     "SDL2::Raw:ver<0.2+>"
   ],
-  "auth"          : "github:azawawi",
+  "auth"          : "github:JJ",
   "authors"       : [ "Ahmad M. Zawawi" ],
     "provides"      : {
 	"SDL2"       : "lib/SDL2.pm6",
